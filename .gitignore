@@ -18,7 +18,8 @@ debug/
 
 # IntelliJ
 /out/
-
+#find me
+/i.
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
